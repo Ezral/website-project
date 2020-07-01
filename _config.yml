@@ -3,8 +3,8 @@ title: KliniCard
 subtitle: Medical professional companion
 email: service@klinicard.com
 description: Medical reference card with essential topics
-baseurl: "/website-project" # the subpath of your site, e.g. /blog
-url: ezral.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author: KliniCard
 street_address:
 city: Jakarta
