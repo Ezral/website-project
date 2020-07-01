@@ -9,7 +9,7 @@ nav-menu: true
 <!-- We believe that patient's safety is one of the main priorities in healthcare.  . -->
 
 <!-- Main -->
-<div id="main">
+<!-- <div id="main"> -->
 
 <!-- One -->
 <section id="one">
@@ -55,3 +55,4 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+<!-- </div> -->
