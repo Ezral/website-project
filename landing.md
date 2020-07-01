@@ -1,10 +1,12 @@
 ---
-title: Landing
+title: Patient Safety
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Having the right reference with you all the time<br />is key in providing the best treatment plan.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+
+<!-- We believe that patient's safety is one of the main priorities in healthcare.  . -->
 
 <!-- Main -->
 <div id="main">

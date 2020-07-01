@@ -2,5 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache
+elements_copy.md
 Gemfile.lock
 *.gem
