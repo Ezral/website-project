@@ -6,23 +6,8 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-##  [KliniCard set](#menu)
-Medical reference card set ini berguna banget untuk dipake sehari-hari klinis.<br>
-Set seharga __IDR 110,000__ ini mencakup 7 jenis KliniCard:<br>
-1. ACLS drugs
-2. Anestesi
-3. Antibiotik
-4. ECG
-5. GCS & Tanda vital
-6. Pulmo
-7. Sepsis
+Get your KliniCard set through [Shopee](https://www.shopee.com/klinicard) or [Tokopedia](https://www.tokopedia.com/klinicard).
+<br>Or if you prefer to communicate directly with us,
+<br>you can do so through our [WhatsApp](https://wa.me/6289638191520), [Instagram](https://www.instagram.com/klinicard) or [Twitter](https://www.twitter.com/klinicard).
 
----
-
-##  [ACLS algorithm set](#menu)
-Set algoritma ACLS seharga __IDR 35,000__ ini terdiri dari 2 kartu yang mencakup<br>
-4 algoritma yang merujuk kepada update AHA 2018:
-1. Cardiac arrest
-2. Post ROSC
-3. Tachyarrhythmia
-4. Bradyarrythmia
+<a href="elements.html" class="button">Learn more</a>

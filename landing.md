@@ -15,9 +15,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Treat confidently</h2>
+			<h2>Quick solution</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>KliniCard comes with compact medical information covering essential topics that all practitioners encounter. Handy for doctors, med students, nurses & paramedics. We know how important it is to be prompt with decision making in medicine and KliniCard is designed with exactly that in mind. </p>
 	</div>
 </section>
 
@@ -32,9 +32,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Double check anytime</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Whether it's making a diagnostic or treatment decision, double checking everything to ensure that nothing is out of place is a way to keep the patients safe.</p>
 				<ul class="actions">
-					<li><a href="#menu" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -46,11 +46,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Quick solution</h3>
+					<h3>Treat confidently</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="#menu" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
