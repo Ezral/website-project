@@ -2,9 +2,9 @@
 title: KliniCard
 subtitle: Medical professional companion
 email: service@klinicard.com
-description: Medical reference card with essential medical topics
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: Medical reference card with essential topics
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ezral.github.io/ # the base hostname & protocol for your site
 author: KliniCard
 street_address:
 city: Jakarta
@@ -21,7 +21,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
+gitlab_url:
 googleplus_url:
 instagram_url: https://instagram.com/klinicard
 linkedin_url:
