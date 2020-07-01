@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#menu" class="image">
-			<img src="assets/images/pic16.jpg" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/pic16.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic17.jpg" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}/assets/images/pic17.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
