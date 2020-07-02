@@ -5,3 +5,4 @@ _site/
 elements_copy.md
 Gemfile.lock
 *.gem
+assets/.DS_Store
