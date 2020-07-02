@@ -5,7 +5,14 @@
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
-	<!-- Twitter cards -->
+	<!-- Open Graph and Twitter cards support-->
+	<meta property="og:type" content="Website">
+	<meta property="og:site_name" content="KliniCard">
+	<meta property="og:title" content="KliniCard">
+	<meta property="og:url" content="https://www.klinicard.com">
+	<meta property="og:description" content="Medical reference card with essential topics">
+	<meta property="og:image" content="{{ site.baseurl }}/assets/images/logo.png">
+
 	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
 	<meta name="twitter:creator" content="@{{ page.author }}">
 	<meta name="twitter:title"   content="{{ page.title }}">
