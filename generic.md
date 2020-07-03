@@ -5,6 +5,10 @@ description: Available on your preferred Indonesia online marketplace
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
+Based in Jakarta, Indonesia
+<br>KliniCard comes with compact medical information
+<br>covering essential topics that all practitioners encounter.
+<br>Handy for doctors, med students, nurses & paramedics.
 
 Get your KliniCard set through [Shopee](https://www.shopee.com/klinicard) or [Tokopedia](https://www.tokopedia.com/klinicard).
 <br>Or if you prefer to communicate directly with us,
