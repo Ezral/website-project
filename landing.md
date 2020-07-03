@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Treat confidently</h3>
 				</header>
-				<p>We strive to give you that confidence in treating your patients by providing a reliable and easily accessed clinical knowledge.</p>
+				<p>We strive to give you that confidence in treating your patients by providing a reliable and easily accessible clinical knowledge.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
